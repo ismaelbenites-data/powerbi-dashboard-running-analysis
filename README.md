@@ -40,10 +40,10 @@ A proposta é transformar dados brutos em insights visuais que permitam acompanh
 ### 🧠 Análise com Tooltips
 
 #### 📈 Progresso mensal e volume de treinos
-![Tooltip Distância](images/tooltip distancia.png)
+![Tooltip Distância](images/tooltip_distancia.png)
 
 #### 🏆 Ranking de desempenho (melhores ritmos)
-![Tooltip Ritmo](images/tooltip ritmo.png)
+![Tooltip Ritmo](images/tooltip_ritmo.png)
 
 ---
 
