@@ -1,7 +1,5 @@
 # 📊 Dashboard de Performance de Corridas — Power BI
 
----
-
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho em corridas utilizando dados do aplicativo Adidas Running.
 
