@@ -1,7 +1,5 @@
 # 📊 Dashboard de Performance de Corridas — Power BI
 
-![Dashboard](images/capa.png)
-
 ---
 
 ## 📌 Sobre o Projeto
@@ -35,11 +33,19 @@ A proposta é transformar dados brutos em insights visuais que permitam acompanh
 
 ## 📊 Dashboard
 
-Abaixo estão algumas visualizações do dashboard desenvolvido:
-
+### 🔎 Visão Geral
 ![Visão Geral](images/capa.png)
 
-![Análise Detalhada](images/analise.png)
+### 📌 Análise Detalhada
+![Análise Detalhada](images/detalhes.png)
+
+### 🧠 Análise com Tooltips
+
+#### 📈 Progresso mensal e volume de treinos
+![Tooltip Distância](images/tooltip_distancia.png)
+
+#### 🏆 Ranking de desempenho (melhores ritmos)
+![Tooltip Ritmo](images/tooltip_ritmo.png)
 
 ---
 
@@ -61,6 +67,8 @@ Abaixo estão algumas visualizações do dashboard desenvolvido:
 
 ## 🧠 Diferenciais do dashboard
 - Uso de tooltips personalizados para análise detalhada por treino
+- Visualização de progresso mensal e volume de corridas
+- Identificação de melhores desempenhos através de ranking de ritmos
 - Navegação interativa entre visão geral e análise detalhada
 - Design focado em usabilidade e leitura rápida de indicadores
 
