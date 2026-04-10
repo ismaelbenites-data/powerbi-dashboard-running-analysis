@@ -46,6 +46,6 @@ Abaixo estão algumas visualizações do dashboard desenvolvido:
 ---
 
 ## 📁 Estrutura do projeto
-- `Running stats.xlsx` → base de dados
-- `Dash running.pbix` → dashboard Power BI
+- `dataset.xlsx` → base de dados
+- `dashboard.pbix` → dashboard Power BI
 - `images/` → imagens do dashboard
