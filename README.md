@@ -32,18 +32,18 @@ A proposta é transformar dados brutos em insights visuais que permitam acompanh
 ## 📊 Dashboard
 
 ### 🔎 Visão Geral
-![Visão Geral](images/capa.png)
+![Visão Geral](images/cover_dashboard.png)
 
 ### 📌 Análise Detalhada
-![Análise Detalhada](images/detalhes.png)
+![Análise Detalhada](images/dashboard_details.png)
 
 ### 🧠 Análise com Tooltips
 
 #### 📈 Progresso mensal e volume de treinos
-![Tooltip Distância](images/tooltip_distancia.png)
+![Tooltip Distância](images/tooltip_distance.png)
 
 #### 🏆 Ranking de desempenho (melhores ritmos)
-![Tooltip Ritmo](images/tooltip_ritmo.png)
+![Tooltip Ritmo](images/tooltip_pace.png)
 
 ---
 
